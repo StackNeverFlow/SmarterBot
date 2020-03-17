@@ -9,7 +9,7 @@ require("lang/".$lang.".php");
 <html>
 <head>
 	<link rel="stylesheet" href="extra/style.css">
-	<title><?php if (!empty($title)) { echo "".title_acp." | ".$title.""; } else { echo "".title_acp." | KuschelSupportbot"; } ?></title>
+	<title><?php if (!empty($title)) { echo "".title_acp." | ".$title.""; } else { echo "".title_acp." | SmarterBot"; } ?></title>
   <style>
   input, button, select {
     width: 100%;
@@ -32,7 +32,7 @@ session_start();
     echo "<h1>".acp_login_login_title."</h1><hr><br><form action='admin.php' method='post'><input type='password' name='passwortlogin' placeholder='".acp_login_password."' required><br>
           <button type='submit'>".acp_login_login_action."</button></form></div></div></body>
           <footer>
-          <p align='center'><font color='grey' size='5'>".copyright_software." <a href='https://github.com/Kuschel-Swein/KuschelSupportbot'>KuschelSupportbot</a> - ".copyright_by." <a href='https://twitter.com/Kuschel_Swein'>Kuschel_Swein</a></font></p>
+          <p align='center'><font color='grey' size='5'>".copyright_software." <a href='https://github.com/StackNeverFlow/SmarterBot'>StackNeverFlow</a> - ".copyright_by." <a href='https://twitter.com/StackNeverFlow'>StackNeverFlow</a></font></p>
           </footer></html>";
     exit;
   }
@@ -49,7 +49,7 @@ if(isset($_GET['delete'])) {
     echo "<div class='flex-item login'><h1>".acp_keywords_list_delete_sure_1." ".$_GET['id']." ".acp_keywords_list_delete_sure_2."</h1><hr><br><form action='admin.php?delete&id=".$_GET['id']."&confirm' method='post'><br>
           <button type='submit'>".acp_keywords_list_delete."</button></form></div></div></body>
           <footer>
-          <p align='center'><font color='grey' size='5'>".copyright_software." <a href='https://github.com/Kuschel-Swein/KuschelSupportbot'>KuschelSupportbot</a> - ".copyright_by." <a href='https://twitter.com/Kuschel_Swein'>Kuschel_Swein</a></font></p>
+          <p align='center'><font color='grey' size='5'>".copyright_software." <a href='https://github.com/StackNeverFlow/SmarterBot'>SmarterBot</a> - ".copyright_by." <a href='https://twitter.com/StackNeverFlow'>StackNeverFlow</a></font></p>
           </footer></html>";
     exit;
   }

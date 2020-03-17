@@ -7,6 +7,7 @@
   <a href="https://twitter.com/StackNeverFlow" target="_blank">
     <img alt="Twitter: StackNeverFlow" src="https://img.shields.io/twitter/follow/StackNeverFlow.svg?style=social" />
   </a>
+  <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2020">
 </p>
 
 > A &#34;Smart&#34; Chatbot written in PHP
@@ -15,13 +16,13 @@
 
 👤 **StackNeverFlow**
 
-* Website: https://www.linusl.de
-* Twitter: [@StackNeverFlow](https://twitter.com/StackNeverFlow)
-* Github: [@StackNeverFlow](https://github.com/StackNeverFlow)
+- Website: https://www.linusl.de
+- Twitter: [@StackNeverFlow](https://twitter.com/StackNeverFlow)
+- Github: [@StackNeverFlow](https://github.com/StackNeverFlow)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/StackNeverFlow/SmarterBot/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/StackNeverFlow/SmarterBot/issues).
 
 ## Show your support
 
