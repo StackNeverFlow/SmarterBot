@@ -1,7 +1,4 @@
 <?php
-/*
-  Fichier en allemand - par Kuschel_Swein
-*/
 $settings = array(
     "translator" => "StackNeverFlow",
     "langcode" => "fr",

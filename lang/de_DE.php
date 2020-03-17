@@ -1,7 +1,4 @@
 <?php
-/*
-  Deutsche Sprachdatei - von Kuschel_Swein
-*/
 $settings = array(
     "translator" => "StackNeverFlow",
     "langcode" => "de",
