@@ -6,7 +6,7 @@
   </a>
   <img src="https://img.shields.io/maintenance/yes/2020">
   <a href="https://twitter.com/StackNeverFlow" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/StackNeverFlow.svg" />
+    <img src="https://img.shields.io/twitter/follow/StackNeverFlow?label=Twitter&style=social" />
   </a>
 </p>
 
